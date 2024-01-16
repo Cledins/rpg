@@ -1,0 +1,4 @@
+repository "rpg@Cassidokan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
